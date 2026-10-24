@@ -24,11 +24,11 @@ repository               : "tasnuvafarheenanika/tasnuvafarheenanika.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "Tasnuva Farheen"
+  pronouns         : "she/her"  # example: "she/her"  
+  bio              : "Research in Classical and Quantum System Security"
+  location         : "Baton Rouge, Louisiana"
+  employer         : "Louisiana State University"
   uri              : # URL
   email            : "none@example.org" 
 
