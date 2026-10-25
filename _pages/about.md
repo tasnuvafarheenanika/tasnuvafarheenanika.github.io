@@ -12,8 +12,9 @@ Hi, I am Tasnuva Farheen, an Assistant Professor and director of the [SRSS (Secu
 ## Research Interests
 
 - Hardware security
-- Chiplet and heterogeneous integration security
 - Quantum security: Trustworthy Hybrid Quantum-Classical Computing System
 - Quantum Communication and Information
+- Chiplet and heterogeneous integration security
+
 
 
