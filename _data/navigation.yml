@@ -8,11 +8,15 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
-  - title: "Updates"
+  - title: "News"
     url: "/#recent-updates"
+  - title: "SRSS Lab"
+    url: "https://srsslab.lsu.edu/"
   - title: "Service"
     url: "/#recent-professional-service"
   - title: "Teaching"
     url: "/#teaching"
+  - title: "Students"
+    url: "https://srsslab.lsu.edu/people/"
     
 
