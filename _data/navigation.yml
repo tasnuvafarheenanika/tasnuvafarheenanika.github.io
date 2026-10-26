@@ -8,13 +8,11 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
-  - title: "Updates"
+  - title: "Recent Updates"
     url: "/#recent-updates"
-
- - title: "Professional Service"
-    url: "/#recent-professional-service"    
-
+  - title: "Professional Service"
+    url: "/#recent-professional-service"
   - title: "Teaching"
-    url: "/#teaching"  
+    url: "/#teaching"
     
 
