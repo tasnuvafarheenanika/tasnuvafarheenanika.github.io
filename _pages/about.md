@@ -26,3 +26,23 @@ Hi, I am Tasnuva Farheen, an Assistant Professor and director of the [SRSS (Secu
 - **Nov 2025** Has been invited to give a lightning talk at the [NELMS IoT conference](https://iot.institute.ufl.edu/iot-conference-2026/)  organized by the University of Florida.
 - **Nov 2025** Our paper on [crosstalk vulnerabilities in superconducting qubits](https://dl.acm.org/doi/full/10.1145/3733825.3765282) has been featured in [Quantum Zeitgeist](https://quantumzeitgeist.com/quantum-pulse-circuit-mapping-reveals-stealthy-crosstalk-attack-three/). It's wonderful to see our work gaining this early recognition.
 
+
+## Recent Professional Service 
+- **Nov 2026:** Serving as the search committee chair for the Quantum Computing and Machine Learning hire at the LSU Division of Computer Science.
+- **Oct 2026:** Technical Program Committee member in Design Automation for Quantum Computing Track, IEEE Design, Automation and Test in Europe (DATE)'2027 conference.
+- **Sep 2026:** Hardware Security demo session co-chair and technical program committee member at IEEE International Symposium on Hardware Oriented Security and Trust (HOST)'2027.
+- **Jan 2026:** Technical program committee member at 63rd Design Automation Conference (DAC) 2026.
+
+## Teaching 
+- **Fall 2026:** Computer Network
+- **Fall 2025:** Computer Network
+- **Spring 2025:** Hardware Security
+- **Fall 2024:** Computer Network 
+
+
+
+
+
+
+
+
