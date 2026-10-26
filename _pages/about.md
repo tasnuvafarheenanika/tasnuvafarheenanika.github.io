@@ -23,5 +23,6 @@ Hi, I am Tasnuva Farheen, an Assistant Professor and director of the [SRSS (Secu
 - **Sep 2026:** Have been invited to serve as a panelist at [NeurIPS 2026 SaTQuML Workshop](https://satquml.github.io/]
 - **July 2026** Received an [NSF Research Grant](https://www.nsf.gov/awardsearch/show-award?AWD_ID=26081820) to advance reliable Quantum Communication.
 - **May 2026** Received [grant from Louisiana Board of Regents](https://www.lsu.edu/eng/news-stories/2026/08/lsu-cse-professors-receive-board-of-regents-award.php) to investigate the security and reliability of Quantum Computing System.
-- 
+- **Nov 2025** Has been invited to give a lightning talk at the [NELMS IoT conference](https://iot.institute.ufl.edu/iot-conference-2026/)  organized by the University of Florida.
+- **Nov 2025** Our paper on [crosstalk vulnerabilities in superconducting qubits](https://dl.acm.org/doi/full/10.1145/3733825.3765282) has been featured in [Quantum Zeitgeist](https://quantumzeitgeist.com/quantum-pulse-circuit-mapping-reveals-stealthy-crosstalk-attack-three/). It's wonderful to see our work gaining this early recognition.
 
